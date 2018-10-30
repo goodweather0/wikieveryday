@@ -5,4 +5,4 @@ wikipedia everyday
 
 18/10/29 [Ham](https://en.wikipedia.org/wiki/Ham)----[火腿](https://zh.wikipedia.org/wiki/%E7%81%AB%E8%85%BF)
 
-18/10/30 [Syrian_Civil_War](https://en.wikipedia.org/wiki/Syrian_Civil_War)----(叙利亚内战)(https://zh.wikipedia.org/wiki/%E5%8F%99%E5%88%A9%E4%BA%9A%E5%86%85%E6%88%98)
+18/10/30 [Syrian_Civil_War](https://en.wikipedia.org/wiki/Syrian_Civil_War)----[叙利亚内战](https://zh.wikipedia.org/wiki/%E5%8F%99%E5%88%A9%E4%BA%9A%E5%86%85%E6%88%98)
